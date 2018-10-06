@@ -1,6 +1,8 @@
 # Curious Spam Cat
 A simple spammer for https://curiouscat.me/
 
+First of all: This was created for educational purposes. I'm not responsible for anything you do with this, and this should NOT be used in any account other than your own account for testing purposes.
+
 This project is the result of the tests i'm doing with requests on python.
 
 The use is very simple, you only need to provide the numeric ID of the profile you want to spam, which can be obtained following this simple steps (in chrome):
